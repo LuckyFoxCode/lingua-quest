@@ -1,1 +1,1 @@
-export const App = () => <div>Lingua Quest</div>
+export const App = () => <div>Lingua Quest</div>;
